@@ -8,12 +8,6 @@ var pictureTwo = document.getElementById('pictureTwo');
 var pictureThree = document.getElementById('pictureThree');
 var resultsTable = document.getElementById('resultsTable');
 
-// Want to set up a button that will display a new round
-
-// document.getElementById('new-session').addEventListener('click', function () {
-//   drawChart();
-// });
-
 document.getElementById('draw-chart').addEventListener('click', function () {
   drawChart();
 });
