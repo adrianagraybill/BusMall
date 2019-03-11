@@ -9,10 +9,12 @@ img {
   height: 300px;
   object-fit: contain;
   border: 1px solid black;
+  background-color: white;
 }
 
 body {
   text-align: center;
+  background-color: azure;
 }
 
 img:nth-child(2) {
