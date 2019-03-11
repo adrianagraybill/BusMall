@@ -8,11 +8,11 @@ img {
   width: 300px;
   height: 300px;
   object-fit: contain;
-  border: 1px solid black;
 }
 
 body {
   text-align: center;
+  background-color: azure;
 }
 
 img:nth-child(2) {
