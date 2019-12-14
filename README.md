@@ -1,6 +1,8 @@
-# BusMall
+# Intro to ChartJS 
 
-## Developer Perspective
+## User Stories for client site
+
+### Developer Perspective
 
 As a developer I want to create a site for my user to perform market analysis on future product sales.
 
@@ -10,7 +12,7 @@ As a developer I need to set a number of selections, once 25 options are run thr
 
 As a developer I need to create a counter to tally votes for the images selected so the client can figure out what products to try to sell.
 
-## Marketing Perspective
+### Marketing Perspective
 
 As a marketing team I want to see how many times an image is clicked.
 
@@ -20,7 +22,7 @@ As a marketing team I want to see the percentage of an image is being clicked in
 
 As a marketing team I want to see all the data collected from the site.
 
-## Client Perspective
+### Client Perspective
 
 As the client I want to see a user friendly site.
 
